@@ -4,4 +4,4 @@ I am currently a master's student at the University of Wisconsin-Madison, studyi
 
 I have a Bachelor of Science in Computer Information Systems from Missouri State University and almost ten years of experience working in software quality assurance automation. 
 
-I plan on adding examples of my analytics work here - expect to see plenty of SQL, Python, and Excel. Thank you for taking a look!
+I plan on adding examples of my analytics work here. Thank you for taking a look!

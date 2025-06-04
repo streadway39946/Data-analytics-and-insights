@@ -16,7 +16,8 @@ What can Urban Hamster do about the previous two questions?
 
 Description of files and links in this folder:
 
-- Hamster Database Setup.sql - .sql ran in Snowflake to create the Hamster database, which supplied the data for the insights
+- Exploring the Urban Hamster Dataset.sql - A set of .sql queries that act as a quick sanity check of the data in the database.
+- Hamster Database Setup.sql - .sql ran in Snowflake to create the Hamster database, which supplied the data for the insights.
 - Queries to Answer Business Questions.sql - The queries run over the Hamster database to find answers for the questions asked by the customer service team. A note: not all of their questions could be answered using .sql, so I answered those questions using comment blocks.
 - Urban Hamster Return Policy.pdf - Some of the questions the customer service team asked were around Urban Hamster's return policy and how they compared to policies for other clothing retailers. I thought it would be helpful to provide a copy of the return policy for reference.
 - [Video Presentation - Answering the Business Questions](https://go.screenpal.com/watch/cThOcGn6uyM) - I recorded this video, just under 3 minutes long, to present my answers for the business questions.

@@ -1,4 +1,4 @@
-The analytics work in this folder was performed for Urban Hamster's finance department, who had the following questions:
+The analytics work in this folder was performed for Urban Hamster's marketing department, who had the following questions:
 
 - Who are Urban Hamster's VIP customers?
 - Which generations are driving sales?

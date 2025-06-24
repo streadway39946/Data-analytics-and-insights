@@ -1,1 +1,1 @@
-Inside the clustering notebook, I also used seaborn and matplotlib to produce different visualizations, which I have added here.
+Inside the clustering notebook, I used the seaborn and matplotlib Python libraries to produce different visualizations, which are added in here.

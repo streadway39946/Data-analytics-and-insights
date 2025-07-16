@@ -9,5 +9,5 @@ Description of files, links and subfolder in this folder:
 - Clustering Visualizations subfolder - Inside the clustering notebook, I used the seaborn and matplotlib Python libraries to produce different visualizations, which are added in here.
 - Exploring the Dataset.sql - A set of .sql queries that act as a quick sanity check of the data in the database.
 - Translating Customer Reviews.sql - Using Snowflake Cortex, I translated a series of customer reviews for a fleece jacket from Korean and Spanish to English and calculated a sentiment score. I then analyzed the more "negative" reviews for common feedback.
-- [Video Presentation - Consumer Insights](https://go.screenpal.com/watch/cT16YcnXI0U) - I recorded this ~2 minute long video to present my answers to the finance department questions.
+- [Video Presentation - Consumer Insights](https://go.screenpal.com/watch/cT16YcnXI0U) - I recorded this ~2 minute long video to present my answers to the marketing department questions.
 - [Video Presentation - Customer Segmentation and Product Reviews](https://somup.com/cT1DrXL0iL) - I recorded this video, 2 and a half minutes, to explain my clustering and LLM work in simple terms and to go over my findings.

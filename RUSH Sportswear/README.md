@@ -9,4 +9,4 @@ RUSH stores raw data in a collection of three tables: TABLE_PRODUCTS, TABLE_RETA
 
 I was also asked to analyze sales data for trends and insights that will help company leadership understand the market and identify opportunities for growth, and to make a 3 to 5 minute presentation to answer the questions and provide my analysis findings.
 
-A link to a video of the presentation is included here: 
+[This sentence contains a link to my presentation to the VP of Sales and the sales team!](https://somup.com/cTj6IvN8ZN)
